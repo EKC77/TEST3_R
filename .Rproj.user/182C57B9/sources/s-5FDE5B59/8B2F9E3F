@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597226548722.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B2F9E3F",
+    "lastKnownWriteTime" : 1597226633,
+    "last_content_update" : 1597226633277,
+    "path" : "~/1_ML/Data Science/R Assignments/TEST3_R/R Script.R",
+    "project_path" : "R Script.R",
+    "properties" : {
+        "cursorPosition" : "0,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
